@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 Jay here. I am a Technical Analyst with 10 years experience in Upstream O&G drilling and logging operations with a certificate in Financial Technology and Data Science from Arizona State University. 
+
+A Strong technical leader experienced in service management and product delivery via customer engagement and strategy based planning. Passionate about data driven solutions and able to perform advanced data analysis and interpretation using Python and a suite of data analysis tools.
+
+Have a gander at my vrious project work on here and let me know if you think we can collborate on something, my intrests lay in the energy industry mostly and love to create solutions that have an impact on society.
+
 
 <!--
 **JQH84/JQH84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
