@@ -2,7 +2,7 @@
 
 A Strong technical leader experienced in service management and product delivery via customer engagement and strategy based planning. Passionate about data driven solutions and able to perform advanced data analysis and interpretation using Python and a suite of data analysis tools.
 
-Have a gander at my vrious project work on here and let me know if you think we can collborate on something, my intrests lay in the energy industry mostly and love to create solutions that have an impact on society.
+Have a look at my vrious project work on here and let me know if you think we can collborate on something, my intrests lay in the energy industry mostly and love to create solutions that have an impact on society.
 
 
 <!--
